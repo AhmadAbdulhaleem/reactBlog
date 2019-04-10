@@ -1,0 +1,15 @@
+.container .starter-template {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 54px;
+}
+
+img.image {
+  width: 40%;
+}
+
+.card {
+  height: 380px !important;
+}
